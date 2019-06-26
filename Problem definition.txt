@@ -1,0 +1,22 @@
+1.Due to  tremendous increase in IT sector jobs, there is need of using cloud services.
+
+2.So,in given problem statement one of the automation Inc. is given named as Rockwell.
+
+3.Its headquarter is in LONDON and having 17 Offshore development centers.
+
+4.Company has 35000 employess all over the world.
+
+5.Rockwell automation had private cloud for their IT solutions previously.
+
+6.But,due to increase in employement company wants to use Amazon Web services public cloud like Infrastructure as service.
+
+7.So,basic need of the this Automation is like all employess can be able to access their Human Resource Solutions portal from 
+ anywhere in World.
+
+8.So,for that company wants to build and host this information Stystem in public cloud google platform or AWS.
+
+9.Through public cloud google platform or AWS it would be easier for company to access their Human Resource Solutions portal from 
+ anywhere in World.
+
+
+ 

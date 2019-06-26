@@ -1,0 +1,40 @@
+Functionalities :
+
+1. Add Employee Information.
+
+2. Add Employee Accounting Information.
+
+3. validation of employee login.
+
+4. delete Employee if Employee leave the Incorporation.
+
+5. Fetch Employee details.
+
+6.
+
+
+
+
+
+
+
+
+
+
+
+
+Non-fuctionalities:
+
+1.Maintainability.
+
+2.Adptability
+
+3.Deployment
+
+4.Accessibility
+
+5.Security
+
+6.Networking
+
+7.
